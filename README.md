@@ -1,2 +1,2 @@
 # git-learning
-My Journey with Git
+My Intense Journey with Git
