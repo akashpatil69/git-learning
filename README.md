@@ -1,3 +1,3 @@
 # git-learning
 My Intense Journey with Git cvs. Its fun !!!
-Lets try rebase option now
+Lets try rebase option now and check for conflicts
